@@ -1,0 +1,131 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#D8F5D6"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:text="Three-rrific-Coders"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#020000"
+            android:textSize="38sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv1"
+            android:layout_width="match_parent"
+            android:layout_height="398dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/priyamsaha" />
+
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Priyam Saha"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Section : B\nCourse : Bachelor of Technology\nBranch : Computer Science and Engineering\nYear : 3rd Year\nCollege : UCER, Prayagraj\nRole : Android Development, Content Development, Database design"
+            android:textAlignment="viewStart"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/tv4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv2"
+            android:layout_width="match_parent"
+            android:layout_height="398dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/priyamsaha" />
+
+        <TextView
+            android:id="@+id/tv5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Piyush Agarwal"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Section : B\nCourse : Bachelor of Technology\nBranch : Computer Science and Engineering\nYear : 3rd Year\nCollege : UCER, Prayagraj\nRole : Android Development, Content Development, Database design"
+            android:textAlignment="viewStart"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/tv7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv3"
+            android:layout_width="match_parent"
+            android:layout_height="398dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/priyamsaha" />
+
+        <TextView
+            android:id="@+id/tv8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prakhar Shanker"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Section : B\nCourse : Bachelor of Technology\nBranch : Computer Science and Engineering\nYear : 3rd Year\nCollege : UCER, Prayagraj\nRole : Android Development, Content Development, Database design"
+            android:textAlignment="viewStart"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="20sp" />
+    </LinearLayout>
+</ScrollView>
